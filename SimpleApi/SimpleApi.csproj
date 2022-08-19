@@ -13,9 +13,4 @@
   <ItemGroup>
     <None Remove="buildspec.yaml" />
   </ItemGroup>
-  <ItemGroup>
-    <Compile Include="buildspec.yaml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Compile>
-  </ItemGroup>
 </Project>
